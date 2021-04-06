@@ -1,0 +1,9 @@
+.shop_div{
+    display: flex;
+}
+.products_div{
+    width: 70%;
+    margin-left : 20px;
+    margin-right : 5px;
+    border-right:  1px solid #eee;
+}
