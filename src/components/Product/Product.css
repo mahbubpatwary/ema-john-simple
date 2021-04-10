@@ -4,11 +4,11 @@
     margin: 10px 5px;
     padding: 10px;
 }
-.product_div h5{
+.product_div h4{
     color: blue;
     font-weight: 500;
 }
-.product_div button{
+.add_btn{
     background-color: goldenrod;
     width: 150px;
     height: 30px;
